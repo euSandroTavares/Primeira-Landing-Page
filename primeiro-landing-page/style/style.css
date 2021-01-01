@@ -1,0 +1,74 @@
+html{
+    background-color: #222222;
+    background-image: linear-gradient( to left , red, rgb(0, 68, 255));
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+}
+main{
+    background-color: #fff;
+    box-shadow: 0 6px 100px 0 rgb(24, 24, 24), 0 10px 20px 0 rgb(24, 24, 24);
+    position: absolute;
+    bottom: 150px;
+    right: 170px;
+    border: 12px;
+    border-radius: 52px;
+    width: 1000px;
+    height: 400px;
+}
+h1{
+    position: relative;
+    width: fit-content;
+    left: 50%;
+    bottom: -20%;
+}
+p{
+    position: relative;
+    text-align: center;
+    left: 35%;
+    top: -25%;
+    width: 500px;
+    height: 120px;
+}
+a{
+    font-style: bold;
+    color: black;
+    text-decoration: none;
+}
+.rede {
+    position: relative;
+    right: -11px;
+}
+.guanabara img{
+    position: relative;
+    width: 190px;
+    height: 190px;
+    left: 9%;
+}
+.instagram a img{
+    position: relative;
+    left:  100px;
+    top: -110px;
+    width: 27px;
+    height: 27px;
+}
+.facebook a img{
+    position: relative;
+    left:  140px;
+    top: -141px;
+    width: 27px;
+    height: 27px;
+}
+.twitter a img{
+    position: relative;
+    left:  179px;
+    top: -203px;
+    width: 27px;
+    height: 27px;
+}
+.youtube a img{
+    position: relative;
+    left:  218px;
+    top: -172px;
+    width: 27px;
+    height: 27px;
+}
